@@ -33,7 +33,7 @@ h1 {
 .profile-picture {
   width: 140px;
   height: 140px;
-  background-image: url("/assets/profile_pic.jpeg");
+  background-image: url("assets/profile_pic.jpeg");
   background-size: cover;
   background-position: center;
   border-radius: 50%;
